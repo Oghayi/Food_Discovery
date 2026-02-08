@@ -1,0 +1,3 @@
+A scalable Restaurant Discovery Backend built with Node.js, Express, and MongoDB that powers real-time search, advanced filtering, and high-performance restaurant listing for a food ordering/discovery app.
+
+This API is designed to efficiently handle large datasets (1000+ restaurants) while delivering fast, smooth, and optimized responses for mobile and web applications.
